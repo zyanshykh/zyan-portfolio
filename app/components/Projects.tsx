@@ -33,7 +33,7 @@ const Projects = () => {
               </span>
             </div>
             <a
-              href="#"
+              href="/coming-soon"
               className="mt-4 inline-block bg-primary  text-gray-600 py-2 px-4 rounded hover:bg-blue-700 transition duration-300"
             >
               View Project
